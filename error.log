@@ -1,0 +1,241 @@
+2016-11-24 14:17:17,298 INFO:             errors [in app.py:50]
+2016-11-24 14:17:27,688 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 14:23:53,217 INFO:             errors [in app.py:50]
+2016-11-29 14:24:04,792 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 14:27:03,377 INFO:             errors [in app.py:50]
+2016-11-29 14:27:10,288 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 14:27:23,941 INFO:             errors [in app.py:50]
+2016-11-29 14:28:01,519 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 14:28:59,486 INFO:             errors [in app.py:50]
+2016-11-29 14:29:52,546 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 14:30:02,599 INFO:             errors [in app.py:50]
+2016-11-29 14:33:43,567 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 14:33:51,263 INFO:             errors [in app.py:50]
+2016-11-29 14:34:36,630 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:37:13,061 INFO:             errors [in app.py:50]
+2016-11-29 18:37:25,434 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:37:46,363 INFO:             errors [in app.py:50]
+2016-11-29 18:37:50,238 ERROR:             Exception on /micr.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:38:24,577 INFO:             errors [in app.py:50]
+2016-11-29 18:38:44,485 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:38:47,782 INFO:             errors [in app.py:50]
+2016-11-29 18:39:04,005 ERROR:             Exception on /micr.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:41:37,359 INFO:             errors [in app.py:51]
+2016-11-29 18:41:42,598 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:41:50,735 INFO:             errors [in app.py:51]
+2016-11-29 18:42:07,127 ERROR:             Exception on /micr.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:45:47,118 INFO:             errors [in app.py:52]
+2016-11-29 18:45:53,476 INFO:             errors [in app.py:52]
+2016-11-29 18:45:58,087 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:47:15,299 INFO:             errors [in app.py:52]
+2016-11-29 18:47:30,562 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:47:54,447 INFO:             errors [in app.py:52]
+2016-11-29 18:48:50,021 ERROR:             Exception on /favicon.ico [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:55:16,089 INFO:             errors [in app.py:55]
+2016-11-29 18:56:05,439 ERROR:             Exception on /micr.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 18:58:26,679 INFO:             errors [in app.py:55]
+2016-11-29 19:00:27,488 INFO:             errors [in app.py:55]
+2016-11-29 19:00:41,902 ERROR:             Exception on /micr.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 19:06:07,200 INFO:             errors [in app.py:55]
+2016-11-29 19:06:28,070 ERROR:             Exception on /micr.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 19:08:08,482 INFO:             errors [in app.py:55]
+2016-11-29 19:08:32,035 ERROR:             Exception on /micr.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 19:12:18,070 INFO:             errors [in app.py:55]
+2016-11-29 19:12:40,480 ERROR:             Exception on /micr.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 19:13:29,909 INFO:             errors [in app.py:59]
+2016-11-29 19:18:48,038 INFO:             errors [in app.py:59]
+2016-11-29 19:19:24,009 INFO:             errors [in app.py:59]
+2016-11-29 19:20:33,265 INFO:             errors [in app.py:59]
+2016-11-29 19:26:43,436 INFO:             errors [in app.py:59]
+2016-11-29 19:28:26,773 INFO:             errors [in app.py:59]
+2016-11-29 19:30:14,126 INFO:             errors [in app.py:59]
+2016-11-29 19:34:29,815 INFO:             errors [in app.py:59]
+2016-11-29 19:38:55,363 INFO:             errors [in app.py:56]
+2016-11-29 19:52:54,857 ERROR:             Exception on /static/darkchequemicr.png [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 19:53:43,520 INFO:             errors [in app.py:56]
+2016-11-29 20:01:56,732 ERROR:             Exception on /static/darkcheque.jpg [GET] [in /Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py:1587]
+Traceback (most recent call last):
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/Users/mohamediqbalsaleem/virtualenvs/pyimgprocess/lib/python2.7/site-packages/flask/app.py", line 1731, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+2016-11-29 20:02:10,495 INFO:             errors [in app.py:56]
